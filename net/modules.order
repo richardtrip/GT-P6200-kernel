@@ -1,0 +1,3 @@
+kernel/net/wireless/cfg80211.ko
+kernel/net/wireless/lib80211.ko
+kernel/net/mac80211/mac80211.ko

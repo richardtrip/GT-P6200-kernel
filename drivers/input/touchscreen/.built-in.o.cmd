@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/built-in.o :=  arm-eabi-ld -EL    -r -o drivers/input/touchscreen/built-in.o drivers/input/touchscreen/melfas_ts.o drivers/input/touchscreen/melfas_download.o drivers/input/touchscreen/melfas_isc_download.o 

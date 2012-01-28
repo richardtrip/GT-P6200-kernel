@@ -1,0 +1,15 @@
+kernel/sound/soundcore.ko
+kernel/sound/core/snd.ko
+kernel/sound/core/snd-hwdep.ko
+kernel/sound/core/snd-timer.ko
+kernel/sound/core/snd-pcm.ko
+kernel/sound/core/snd-page-alloc.ko
+kernel/sound/soc/snd-soc-core.ko
+kernel/sound/soc/codecs/mc1n2/snd-soc-mc1n2.ko
+kernel/sound/soc/s3c24xx/snd-soc-s3c24xx.ko
+kernel/sound/soc/s3c24xx/snd-soc-s3c64xx-i2s-v4.ko
+kernel/sound/soc/s3c24xx/snd-soc-s3c-i2s-v2.ko
+kernel/sound/soc/s3c24xx/snd-soc-s3c-idma.ko
+kernel/sound/soc/s3c24xx/snd-soc-s3c-dma-wrapper.ko
+kernel/sound/soc/s3c24xx/snd-soc-s5p-i2s_sec.ko
+kernel/sound/soc/s3c24xx/snd-soc-c1-mc1n2.ko

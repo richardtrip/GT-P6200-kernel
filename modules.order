@@ -1,0 +1,9 @@
+kernel/drivers/scsi/scsi_wait_scan.ko
+kernel/drivers/net/wireless/ray_cs.ko
+kernel/drivers/media/video/gspca/gspca_main.ko
+kernel/drivers/pcmcia/pcmcia_core.ko
+kernel/drivers/pcmcia/pcmcia.ko
+kernel/drivers/pcmcia/pcmcia_rsrc.ko
+kernel/net/wireless/cfg80211.ko
+kernel/net/wireless/lib80211.ko
+kernel/net/mac80211/mac80211.ko

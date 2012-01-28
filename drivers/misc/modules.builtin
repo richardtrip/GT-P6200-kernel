@@ -1,0 +1,4 @@
+kernel/drivers/misc/lkdtm.ko
+kernel/drivers/misc/eeprom/at24.ko
+kernel/drivers/misc/mpu3050/mpu3050.ko
+kernel/drivers/misc/mpu3050/sensors_core.ko

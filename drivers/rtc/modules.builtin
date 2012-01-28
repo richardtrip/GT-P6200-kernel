@@ -1,0 +1,4 @@
+kernel/drivers/rtc/rtc-lib.ko
+kernel/drivers/rtc/rtc-core.ko
+kernel/drivers/rtc/rtc-max8997.ko
+kernel/drivers/rtc/rtc-s3c.ko
