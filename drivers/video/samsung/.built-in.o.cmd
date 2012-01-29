@@ -1,1 +1,0 @@
-cmd_drivers/video/samsung/built-in.o :=  arm-eabi-ld -EL    -r -o drivers/video/samsung/built-in.o drivers/video/samsung/s3cfb.o drivers/video/samsung/s3cfb_fimd6x.o drivers/video/samsung/s3cfb_s6c1372.o drivers/video/samsung/s3cfb_mdnie.o drivers/video/samsung/s3cfb_ielcd.o drivers/video/samsung/mdnie_tunning.o 

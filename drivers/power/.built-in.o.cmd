@@ -1,1 +1,0 @@
-cmd_drivers/power/built-in.o :=  arm-eabi-ld -EL    -r -o drivers/power/built-in.o drivers/power/power_supply.o drivers/power/max17042_battery.o drivers/power/sec_battery.o drivers/power/max8997-charger.o drivers/power/smb136_charger.o 

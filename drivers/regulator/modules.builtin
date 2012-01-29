@@ -1,3 +1,0 @@
-kernel/drivers/regulator/fixed.ko
-kernel/drivers/regulator/max8997.ko
-kernel/drivers/regulator/samsung_pd.ko
