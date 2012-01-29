@@ -1,7 +1,7 @@
 #
 # Automatically generated make config: don't edit
 # Linux kernel version: 2.6.36
-# Sun Jan 29 14:34:51 2012
+# Sun Jan 29 15:18:32 2012
 #
 CONFIG_ARM=y
 CONFIG_HAVE_PWM=y
@@ -38,7 +38,7 @@ CONFIG_EXPERIMENTAL=y
 CONFIG_LOCK_KERNEL=y
 CONFIG_INIT_ENV_ARG_LIMIT=32
 CONFIG_CROSS_COMPILE=""
-CONFIG_LOCALVERSION="VillainTabPlus_0.1"
+CONFIG_LOCALVERSION="VillainTabPlus_0.2"
 CONFIG_LOCALVERSION_AUTO=y
 CONFIG_HAVE_KERNEL_GZIP=y
 CONFIG_HAVE_KERNEL_LZMA=y
@@ -2430,7 +2430,22 @@ CONFIG_ROMFS_BACKED_BY_BLOCK=y
 CONFIG_ROMFS_ON_BLOCK=y
 # CONFIG_SYSV_FS is not set
 # CONFIG_UFS_FS is not set
-# CONFIG_NETWORK_FILESYSTEMS is not set
+CONFIG_NETWORK_FILESYSTEMS=y
+# CONFIG_NFS_FS is not set
+# CONFIG_NFSD is not set
+# CONFIG_SMB_FS is not set
+# CONFIG_CEPH_FS is not set
+CONFIG_CIFS=m
+# CONFIG_CIFS_STATS is not set
+# CONFIG_CIFS_WEAK_PW_HASH is not set
+# CONFIG_CIFS_UPCALL is not set
+# CONFIG_CIFS_XATTR is not set
+# CONFIG_CIFS_DEBUG2 is not set
+# CONFIG_CIFS_DFS_UPCALL is not set
+# CONFIG_CIFS_EXPERIMENTAL is not set
+# CONFIG_NCP_FS is not set
+# CONFIG_CODA_FS is not set
+# CONFIG_AFS_FS is not set
 
 #
 # Partition Types
@@ -2492,7 +2507,7 @@ CONFIG_NLS_ISO8859_1=y
 # CONFIG_NLS_ISO8859_15 is not set
 # CONFIG_NLS_KOI8_R is not set
 # CONFIG_NLS_KOI8_U is not set
-# CONFIG_NLS_UTF8 is not set
+CONFIG_NLS_UTF8=y
 # CONFIG_DLM is not set
 
 #
