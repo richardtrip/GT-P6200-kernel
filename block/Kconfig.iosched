@@ -78,11 +78,7 @@ config DEFAULT_IOSCHED
 	string
 	default "deadline" if DEFAULT_DEADLINE
 	default "cfq" if DEFAULT_CFQ
-<<<<<<< HEAD
-=======
 	default "sio" if DEFAULT_SIO
-	default "bfq" if DEFAULT_BFQ
->>>>>>> a00ad2f... Add Simple IO Scheduler
 	default "noop" if DEFAULT_NOOP
 
 endmenu
